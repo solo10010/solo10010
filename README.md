@@ -1,4 +1,3 @@
-[![Header](https://github.com/solo10010/solo10010/blob/main/assets/solo.png)](https://github.com/solo10010/)
 <p> <img align = "left" src="https://github.com/solo10010/solo10010/blob/main/assets/solo.png" alt = "solo10010" /> </p>
 ## I'm WEB Developer AND Security Specialist.
 
