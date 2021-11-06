@@ -1,26 +1,39 @@
-<h1 align = "center"> Привет 👋, я Антон </h1>
-<h3 align = "center"> Компьютерщик, в свободное время я люблю программировать, изучать все новое в области информатики, самоучка. В свободное время я увлекаюсь поиском ошибок или пишу инструменты, чтобы сделать это более эффективно, ну, чтобы получить вознаграждение или интересный товар, я только в начале пути осмысления уязвимостей nuika poska, и так что вкратце описываю себя, люблю учиться, очень ответственный, общительный, добродушный, с черным юмором, люблю решать сложные и интересные задачи, обожаю linux, бесплатное ПО ... </h3>
+[![Header](https://github.com/solo10010/solo10010/blob/master/assets/solo.png)](https://github.com/solo10010/)
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=solo10010&label=Profile%20views&color=0e75b6&style=flat" alt = "solo10010" /> </p>
-
-<p align = "left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src = "https://github-profile-trophy.vercel.app /? username = solo10010 "alt =" solo10010 "/> </a> </p>
-
-- 🔭 Я сейчас работаю над [reconWTF](https://github.com/solo10010/reconWTF)
-
-- 🌱 Я сейчас изучаю ** BugBounty, Goland, JavaScript **
-
-- 📝 Я регулярно пишу статьи на [https://solo10010.github.io/blog/](https://solo10010.github.io/blog/)
-
-- 📫 Как до меня добраться **https://t.me/Solo10010**
-
-- 📄 Знайте о моем опыте [https://solo10010.github.io/resume/](https://solo10010.github.io/resume/)
+## I'm WEB Developer AND Security Specialist.
 
 
-<h3 align = "left"> Языки и инструменты: </h3>
-<p align = "left"> <a href="https://www.chartjs.org" target="_blank"> <img src = "https://www.chartjs.org/media/logo-title.svg" alt = "chartjs" width = "40" height = "40" /> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt = "django" width = "40" height = "40" /> </a> <a href="https://www.docker.com/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt = "docker" width = "40" height = "40" /> </a> <a href="https://golang.org" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt = "go" width = "40" height = "40" /> </a> <a href="https://gohugo.io/" target="_blank"> <img src = "https://api.iconify.design/logos-hugo.svg" alt = "hugo" width = "40" height = "40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "40" height = "40" /> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt = "jekyll" width = "40" height = "40" /> </a> <a href="https://www.linux.org/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt = "linux" width = "40" height = "40" /> </a> <a href="https://www.nginx.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt = "nginx" width = "40" height = "40" /> </a> <a href="https://www.python.org" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" width = "40" height = "40" /> </a> </p>
+### Languages and Tools:
+![BASH](https://img.shields.io/badge/-shell-090909?style=for-the-badge&logo=shell&logoColor=47C5FB)
+![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=097CDB)
+![css](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css&logoColor=F8C52C)
+![html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&logoColor=F88C00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=E5D3FF)
+![flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask&logoColor=6296CC)
+![bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=6296CC)
+
+### Follow Me:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
+
+### I'm currently studying
+![BugBounty](https://img.shields.io/badge/-bugbounty-090909?style=for-the-badge&logo=bugbounty&logoColor=6296CC)
+![Goland](https://img.shields.io/badge/-goland-090909?style=for-the-badge&logo=goland&logoColor=6296CC)
+![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript&logoColor=6296CC)
+
+
+
+- 🔭 I'm currently working on [reconWTF](https://github.com/solo10010/reconWTF)
+
+- 📝 I write articles on [https://solo10010.github.io/blog/](https://solo10010.github.io/blog/)
+
+- 📄 Know about my experience [https://solo10010.github.io/resume/](https://solo10010.github.io/resume/)
+
+
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=solo10010&show_icons=true&locale=en&layout=compact" alt = "solo10010" /> </p>
 
 <p><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=solo10010&show_icons=true&locale=en" alt = "solo10010" /> </p>
 
-<p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=solo10010&" alt = "solo10010" /> </p> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solo10010&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
