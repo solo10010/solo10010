@@ -1,4 +1,4 @@
-[![Header](https://github.com/solo10010/solo10010/blob/master/assets/solo.png)](https://github.com/solo10010/)
+[![Header](https://github.com/solo10010/solo10010/blob/main/assets/solo.png)](https://github.com/solo10010/)
 
 ## I'm WEB Developer AND Security Specialist.
 
