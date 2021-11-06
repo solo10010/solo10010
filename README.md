@@ -5,15 +5,15 @@
 
 <p align = "left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src = "https://github-profile-trophy.vercel.app /? username = solo10010 "alt =" solo10010 "/> </a> </p>
 
-- 🔭 Я сейчас работаю над [reconWTF] (https://github.com/solo10010/reconWTF)
+- 🔭 Я сейчас работаю над [reconWTF](https://github.com/solo10010/reconWTF)
 
 - 🌱 Я сейчас изучаю ** BugBounty, Goland, JavaScript **
 
-- 📝 Я регулярно пишу статьи на [https://solo10010.github.io/blog/pting(https://solo10010.github.io/blog/)
+- 📝 Я регулярно пишу статьи на [https://solo10010.github.io/blog/](https://solo10010.github.io/blog/)
 
-- 📫 Как до меня добраться ** https: //t.me/Solo10010**
+- 📫 Как до меня добраться **https://t.me/Solo10010**
 
-- 📄 Знайте о моем опыте [https://solo10010.github.io/resume/ provided(https://solo10010.github.io/resume/)
+- 📄 Знайте о моем опыте [https://solo10010.github.io/resume/](https://solo10010.github.io/resume/)
 
 
 <h3 align = "left"> Языки и инструменты: </h3>
@@ -21,6 +21,6 @@
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=solo10010&show_icons=true&locale=en&layout=compact" alt = "solo10010" /> </p>
 
-<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=solo10010&show_icons=true&locale=en" alt = "solo10010" /> </p>
+<p><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=solo10010&show_icons=true&locale=en" alt = "solo10010" /> </p>
 
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=solo10010&" alt = "solo10010" /> </p> 
