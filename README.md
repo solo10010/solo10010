@@ -70,7 +70,5 @@ ___________________________________________________10010________________________
 - 📄 Know about my experience [https://solo10010.github.io/resume/](https://solo10010.github.io/resume/)
 
 
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=solo10010&show_icons=true&locale=en&layout=compact&theme=highcontrast&card_width=500" alt = "solo10010" /> </p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solo10010&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=)](https://git.io/streak-stats)
 
