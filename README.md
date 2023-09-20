@@ -19,15 +19,7 @@ ___________________________________________________10010________________________
 ```
 
 ## Github Stats
-<div>
-<a href="https://github.com/solo10010">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=solo10010&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solo10010&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div> 
-
-
-## I'm System Administrator AND Security Specialist.
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solo10010&show_icons=true&theme=transparent)
 
 ### Programming Languages:
 ![BASH](https://img.shields.io/badge/-shell-090909?style=for-the-badge&logo=shell&logoColor=47C5FB)
