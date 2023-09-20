@@ -20,7 +20,6 @@ ___________________________________________________10010________________________
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solo10010&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solo10010a&hide_progress=true&theme=transparent)
 
 ### Programming Languages:
 ![BASH](https://img.shields.io/badge/-shell-090909?style=for-the-badge&logo=shell&logoColor=47C5FB)
