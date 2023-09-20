@@ -11,6 +11,21 @@ _________________________\///////////__________\/////_______\///////////////____
 ___________________________________________________10010________________________________________________________
 ```
 
+```javascript
+🌻 My name is Solo10010!
+🌱 I live in Kazackstan.
+🍃 I'm System Administrator AND Security Specialist.
+🌼 I love game SpaceStation13, BugBounty.
+```
+
+## Github Stats
+<div>
+<a href="https://github.com/solo10010">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=solo10010&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solo10010&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div> 
+
+
 ## I'm System Administrator AND Security Specialist.
 
 
@@ -68,7 +83,4 @@ ___________________________________________________10010________________________
 - 📝 I write articles on [https://solo10010.github.io/blog/](https://solo10010.github.io/blog/)
 
 - 📄 Know about my experience [https://solo10010.github.io/resume/](https://solo10010.github.io/resume/)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solo10010&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=)](https://git.io/streak-stats)
 
