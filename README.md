@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/solo10010/trash/main/static/image/image_2023-10-11_17_29_42.png "solo10010 Logo")
+![logo](https://raw.githubusercontent.com/solo10010/trash/main/static/image/image_2023-10-11_17_29_09.png "solo10010 Logo")
 
 ```javascript
 🌻 My name is Solo10010!
