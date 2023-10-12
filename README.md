@@ -1,10 +1,10 @@
 ![logo](https://raw.githubusercontent.com/solo10010/trash/main/static/image/image_2023-10-11_17_29_09.png "solo10010 Logo")
 
 ```javascript
-🌻 My name is Solo10010!
-🌱 I live in Kazackstan.
-🍃 I'm System Administrator AND Security Specialist.
-🌼 I love game SpaceStation13, BugBounty.
+♩ My name is Solo10010!
+♪ I live in Kazackstan.
+♫ I'm System Administrator AND Security Specialist.
+♬ I love game SpaceStation13, BugBounty.
 ```
 
 ## Github Stats
