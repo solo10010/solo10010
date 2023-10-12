@@ -8,8 +8,12 @@
 ```
 
 ## GITHUB STATS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solo10010&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solo10010&layout=donut&show_icons=true&theme=dark)](https://github.com/solo10010/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=solo10010" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=solo10010&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ### PROGRAMMING LANGUAGES:
 ![BASH](https://img.shields.io/badge/-shell-090909?style=for-the-badge&logo=shell&logoColor=47C5FB)
