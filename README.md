@@ -7,10 +7,10 @@
 ♬ I love game SpaceStation13, BugBounty.
 ```
 
-## Github Stats
+## GITHUB STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solo10010&show_icons=true&theme=transparent)
 
-### Programming Languages:
+### PROGRAMMING LANGUAGES:
 ![BASH](https://img.shields.io/badge/-shell-090909?style=for-the-badge&logo=shell&logoColor=47C5FB)
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=097CDB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -21,7 +21,7 @@
 ![bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=6296CC)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
-### System Administered
+### SYSTEM ADMINISTERED:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,24 +35,24 @@
 ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)
 
 
-### IDEs/Editors
+### IDES/EDITORS:
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-### Hosting/SaaS
+### HOSTING/SAAS
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-### What can I do in DevOps
+### WHAT CAN I DO IN DEVOPS:
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Follow Me:
+### FOLLOW ME:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/solo10010)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ahtonyius/)
 
-### I'm currently studying
+### I'M CURRENTLU STUDYING:
 ![BugBounty](https://img.shields.io/badge/-bugbounty-090909?style=for-the-badge&logo=bugbounty&logoColor=6296CC)
 ![Goland](https://img.shields.io/badge/-goland-090909?style=for-the-badge&logo=goland&logoColor=6296CC)
 ![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript&logoColor=6296CC)
