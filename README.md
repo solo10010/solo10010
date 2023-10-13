@@ -3,11 +3,11 @@
 ![logo](https://raw.githubusercontent.com/solo10010/trash/main/static/image/2023-10-13_14-20.png "solo10010 Logo")
 
 <div class="markdown-body">
+  <img src="https://user-images.githubusercontent.com/74038190/240818493-79258361-c121-400c-8245-600b272b1eea.gif" style="float: right; margin-left: 20px;">
   <div style="display: flex; align-items: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/240818493-79258361-c121-400c-8245-600b272b1eea.gif" style="float: right; margin-left: 20px;">
     <div>
-      ♩ My name is Solo10010!<br>
-      ♪ I live in Kazackstan.<br>
+      ♩  My name is Solo10010!<br>
+      ♪  I live in Kazackstan.<br>
       ♫ I'm System Administrator AND Security Specialist.<br>
       ♬ I love game SpaceStation13, BugBounty.
     </div>
