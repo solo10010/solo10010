@@ -4,10 +4,10 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    ♩ My name is Solo10010!<br>
-    ♪ I live in Kazackstan.<br>
-    ♫ I'm System Administrator AND Security Specialist.<br>
-    ♬ I love game SpaceStation13, BugBounty.
+    <p style="font-size: 20px; font-weight: bold;">♩ My name is Solo10010!</p>
+    <p style="font-size: 18px;">♪ I live in Kazackstan.</p>
+    <p style="font-size: 18px;">♫ I'm System Administrator AND Security Specialist.</p>
+    <p style="font-size: 18px;">♬ I love game SpaceStation13, BugBounty.</p>
   </div>
   <img src="https://user-images.githubusercontent.com/74038190/240818493-79258361-c121-400c-8245-600b272b1eea.gif" style="float: right; margin-left: 20px;">
 </div>
