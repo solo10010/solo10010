@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1400">
 
 ![logo](https://raw.githubusercontent.com/solo10010/trash/main/static/image/2023-10-13_14-20.png "solo10010 Logo")
 
