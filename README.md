@@ -4,15 +4,16 @@
 
 <div class="markdown-body">
   <div style="display: flex; align-items: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/240818493-79258361-c121-400c-8245-600b272b1eea.gif" style="float: left; margin-right: 20px;">
     <div>
       ♩ My name is Solo10010!<br>
       ♪ I live in Kazackstan.<br>
       ♫ I'm System Administrator AND Security Specialist.<br>
       ♬ I love game SpaceStation13, BugBounty.
     </div>
+    <img src="https://user-images.githubusercontent.com/74038190/240818493-79258361-c121-400c-8245-600b272b1eea.gif" style="float: left; margin-left: 20px;">
   </div>
 </div>
+
 
 ## GITHUB STATS
 <a href="https://github.com/anuraghazra/github-readme-stats">
